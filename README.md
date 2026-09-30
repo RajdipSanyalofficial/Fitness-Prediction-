@@ -198,5 +198,5 @@ jupyter notebook Fitness_Prediction_Logistic_Regression.ipynb
 
 ## 13. Author
 
-**Rajdip Sanyal**
+**Rajdip Sanyal** - 
 [GitHub](https://github.com/RajdipSanyalofficial) | [Mail Id](rajdipsanyal43@gmail.com)
