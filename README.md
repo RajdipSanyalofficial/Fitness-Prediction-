@@ -198,5 +198,5 @@ jupyter notebook Fitness_Prediction_Logistic_Regression.ipynb
 
 ## 13. Author
 
-**Your Name**
-[GitHub](https://github.com/RajdipSanyalofficial) | rajdipsanyal43@gmail.com
+**Rajdip Sanyal**
+[GitHub](https://github.com/RajdipSanyalofficial) | [Mail Id](rajdipsanyal43@gmail.com)
